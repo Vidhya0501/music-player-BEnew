@@ -2,7 +2,7 @@ Frontend
   Github Link
   https://github.com/Vidhya0501/music-player-FEnew
   
-  Deployed Link
+  Deployed Link - Netlify
   https://online-music-player-mern-vidhya.netlify.app/
   
 
